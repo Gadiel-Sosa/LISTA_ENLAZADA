@@ -14,6 +14,6 @@ class Main {
         lista.removeLast();
 
         System.out.println("El tamaño de la lista es: " + lista.size());
-        System.out.println(lista.getLast());  // Este método debe funcionar con LinkedList
+        System.out.println(lista.getLast());  
     }
 }
